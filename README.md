@@ -3,6 +3,12 @@
 ## Overview
 ClimaZen is not just another weather app; it's your serene companion that transforms the way you experience weather updates. With a minimalist design and powerful features, ClimaZen provides accurate and timely weather information to keep you prepared for any forecast.
 
+
+
+https://github.com/DhruvSharma19/ClimaZen/assets/112254552/a0ebf220-6f07-44ba-8433-a62887947417
+
+
+
 ## Key Features
 - **Intuitive Interface:** Experience weather updates with a clean and user-friendly design.
 - **Personalized Forecast:** Receive customized weather forecasts based on your location.
